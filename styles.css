@@ -1,0 +1,18 @@
+* {
+    font-family: helvetica, sans-serif;
+    background-color: #eff0e6;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+.list {
+    text-align: left;
+}
+
+h1 {
+    background-color: #dd5b34;
+    color:  #eff0e6;
+}
